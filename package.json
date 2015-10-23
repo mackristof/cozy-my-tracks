@@ -1,10 +1,10 @@
 {
-  "name": "cozy-tutorial",
+  "name": "my-tracks",
   "version": "0.0.1",
-  "description": "An application to get you started with web app development and Cozy.",
+  "description": "An application to manage GPS tracks.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cozy/cozy-tutorial.git"
+    "url": "https://github.com/mackristof/cozy-my-tracks.git"
   },
   "main": "server.js",
   "dependencies": {
